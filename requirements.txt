@@ -1,0 +1,16 @@
+streamlit
+openai
+google-genai
+langchain
+langchain-community
+langchain-openai
+chromadb
+pymupdf4llm
+pydantic
+python-dotenv
+speechrecognition
+pyttsx3
+pyaudio
+fastapi
+uvicorn[standard]
+python-multipart
